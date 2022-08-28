@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "build": "gatsby build"
+    "build": "build"
   }
 }
